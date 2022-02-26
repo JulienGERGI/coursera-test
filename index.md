@@ -1,6 +1,6 @@
 
 ## Welcome to GitHub Pages
-<h1> testtttttt </h1>
+
 
 You can use the [editor on GitHub](https://github.com/JulienGERGI/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
